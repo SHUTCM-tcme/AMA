@@ -1,0 +1,19 @@
+Parameters	T1 - Amplitude	T1 - Velocity	T1 - Time	T2 - Amplitude	T2 - Velocity	T2 - Time
+thumb base joint right X	0.0604	0.1209	0.5354	0.0826	0.208	0.4583
+thumb base joint right Y	0.1483	0.2899	0.5354	0.1442	0.3545	0.4583
+thumb base joint right Z	1.1525	2.1542	0.5354	1.1918	2.9477	0.4583
+thumb end joint right X	0.5167	0.9756	0.5354	0.4802	1.2002	0.4583
+thumb end joint right Y	0.5014	0.942	0.5354	0.5517	1.3407	0.4583
+thumb end joint right Z	1.8198	3.4211	0.5354	1.8771	4.6324	0.4583
+thumb tip right X	0.9173	1.7156	0.5354	0.8902	2.219	0.4583
+thumb tip right Y	0.9553	1.8048	0.5354	0.9816	2.416	0.4583
+thumb tip right Z	2.4454	4.5904	0.5354	2.5251	6.2215	0.4583
+forefinger base joint right X	0.4161	0.7699	0.5354	0.5007	1.2712	0.4583
+forefinger base joint right Y	0.5074	0.9484	0.5354	0.5851	1.4222	0.4583
+forefinger base joint right Z	0.8975	1.6795	0.5354	0.9001	2.2459	0.4583
+forefinger middle joint right X	0.9027	1.6979	0.5354	0.8548	2.1416	0.4583
+forefinger middle joint right Z	1.8317	3.4344	0.5354	1.8802	4.6589	0.4583
+forefinger middle joint right Y	2.2646	4.2724	0.5354	2.3195	5.735	0.4583
+forefinger tip right X	0.2865	0.5331	0.5354	0.2538	0.6443	0.4583
+forefinger tip right Y	1.2701	2.3887	0.5354	1.282	3.1711	0.4583
+forefinger tip right Z	1.5681	2.9386	0.5354	1.6071	3.9986	0.4583
