@@ -12,6 +12,10 @@ Server: Windows server 2016/2019 or CentOS 7.0 or Ubuntu Server 20.04 with Apach
 
 Client: Windows 11/10/8/7/XP or MacOS or Ubuntu with Chrome or Firefox
 
+### How to run this software
+
+Clone this repository and upload all the files and folders to your own server, then visit it with web browser of your clients. 
+
 ### Login
 
 Input the username and password to login AMA.
