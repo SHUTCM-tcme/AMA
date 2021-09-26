@@ -1,4 +1,4 @@
-# Acupuncture Manipulation Analysis (AMA) Ver.2.0
+# Acupuncture Manipulation Analysis (AMA) Version 1.1
 
 ### Software copyright registration number of the People's Republic of China: 2021SR1241036
 
